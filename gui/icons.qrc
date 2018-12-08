@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/photo.jpg</file>
+    <file>images/add-icon.png</file>
+    <file>images/app.png</file>
+    <file>images/remove.png</file>
+  </qresource>
+</RCC>
